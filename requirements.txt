@@ -1,6 +1,0 @@
-# INLS570 Project 1 - Text Adventure Game
-# This project uses only Python standard library modules
-# No external dependencies required
-
-# Python version requirement
-# Python 3.6+ recommended for best compatibility

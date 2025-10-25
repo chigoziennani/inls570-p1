@@ -1,6 +1,6 @@
-# INLS570 Project 1 - Text Adventure Game
+# Project 1 - Text Adventure Game
 
-A simple text-based adventure game implemented in Python for INLS570 (Information Science course).
+A simple text-based adventure game implemented in Python for INLS570 - Programming Information Applications.
 
 ## Project Overview
 
@@ -93,16 +93,5 @@ The game engine consists of several key functions:
 - `move_player()` - Handles player movement with grid calculations
 - `main()` - Main game loop with command processing
 
-## Author
-
-**Chigozie Nnani** - INLS570 Student
-
-## Course Information
-
-- **Course**: INLS570 - Information Science
-- **Project**: Project 1 - Text Adventure Game
-- **Semester**: Fall 2025
-
-## License
 
 This project is created for educational purposes as part of INLS570 coursework.
